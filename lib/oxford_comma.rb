@@ -3,4 +3,6 @@ def oxford_comma(array)
     return array
   elsif array.length == 
     array.join("and")
+  else
+    array.length
 end
