@@ -4,6 +4,6 @@ def oxford_comma(array)
   elsif array.length == 
     array.join("and")
   else
-    last = array.last
-    last_position = array.index(last)
+    # last = array.last
+    # last_position = array.index(last)
 end
