@@ -4,5 +4,5 @@ def oxford_comma(array)
   elsif array.length == 
     array.join("and")
   else
-    first = array.length
+    last = array.length
 end
