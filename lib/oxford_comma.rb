@@ -1,4 +1,5 @@
 def oxford_comma(array)
-  step_one = array.split(",")
-  
+  if array.length <= 1
+    return array
+  elsif 
 end
