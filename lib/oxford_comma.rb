@@ -5,4 +5,5 @@ def oxford_comma(array)
     array.join("and")
   else
     last = array.last
+    last_position = array.index(last)
 end
